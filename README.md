@@ -7,3 +7,4 @@ some change
 something
 hello
 some commit
+something changed
