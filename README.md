@@ -8,3 +8,4 @@ something
 hello
 some commit
 something changed
+added change
