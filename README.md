@@ -9,3 +9,4 @@ hello
 some commit
 something changed
 added change
+changed change
